@@ -1,7 +1,6 @@
 # Naked-Trill-Data-Recovery-Project
 Bibliography- Research sources for "Reversing Corruption in Seagate Translators; The NakedTrill Data Recovery Project" presentation
 
-Bibliography: 
 [0] Bluff, J. (2017, February 16). Right To Repair. Retrieved from ifixit.org: https://ifixit.org/blog/8780/apple-right-to-repair/
 
 
