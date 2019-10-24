@@ -45,3 +45,8 @@ Bibliography:
 
 
 [14] Spildit. (2016, November 21). Common errors in terminal response. Retrieved from HDDOracle.com: http://www.hddoracle.com/viewtopic.php?f=6&t=1391&p=10597&hilit=LED%3A+000000CC+FAddr%3A+0025AF5B#p10597
+
+[15] Todd G. Shipley and Bryan Door (2016, July 22). "Hiding Data from Forensic Imagers- Using the Service Area of a Hard Disk Drive". Retreived from forensicfocus.com: https://articles.forensicfocus.com/2016/07/22/hiding-data-from-forensic-imagers-using-the-service-area-of-a-hard-disk-drive/
+
+[16] Palmer, J. (2015, July 14). Seagate F3 Terminal Command Set.  Retreived from data-medics.com: https://www.data-medics.com/forum/seagate-f3-terminal-command-set-t901.html
+
